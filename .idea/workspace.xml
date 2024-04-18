@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment="Web Automation" />
+    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,11 +74,20 @@
       <option name="project" value="LOCAL" />
       <updated>1713430928098</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1713431134997</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713431134997</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Web Automation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Web Automation" />
+    <MESSAGE value=" web automation" />
+    <option name="LAST_COMMIT_MESSAGE" value=" web automation" />
   </component>
 </project>
