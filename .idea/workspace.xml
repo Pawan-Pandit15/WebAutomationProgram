@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebAutomationProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12-april/test_lab1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-    </list>
+    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment="Web Automation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +34,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_lab1.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -65,6 +56,27 @@
       <option name="presentableId" value="Default" />
       <updated>1713422865693</updated>
     </task>
+    <task id="LOCAL-00001" summary="Web Automation">
+      <option name="closed" value="true" />
+      <created>1713430835043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713430835043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Web Automation">
+      <option name="closed" value="true" />
+      <created>1713430928098</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713430928098</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Web Automation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web Automation" />
   </component>
 </project>
