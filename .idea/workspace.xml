@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation">
+      <change afterPath="$PROJECT_DIR$/src/12-april/test_lab2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/12-april/test_lab3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,9 +27,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2fGMGVXaRaKgBMOv7CvCvrpFXZ0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,9 +39,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in test_lab1.py.executor": "Run",
+    "Python tests.Python tests in test_lab2.py.executor": "Run",
+    "Python tests.Python tests in test_lab3.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+    ]
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -82,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713431134997</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1713431993561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713431993561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
