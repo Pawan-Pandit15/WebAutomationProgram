@@ -8,9 +8,9 @@ import time
 import allure
 
 #----------------------------------------------------------------
-# def test_open_vwologin():
-#     driver = webdriver.Chrome()
-#     driver.get("https://app.vwo.com")
+def test_open_vwologin():
+    driver = webdriver.Chrome()
+    driver.get("https://app.vwo.com")
 
 #--------------------------------------------------------------------
 

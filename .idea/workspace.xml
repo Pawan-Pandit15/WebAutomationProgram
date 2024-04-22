@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation">
-      <change afterPath="$PROJECT_DIR$/src/12-april/test_lab2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/12-april/test_lab3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15-april/test_lab4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15-april/test_lab5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/15-april/test_lab6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/12-april/test_lab3.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/12-april/test_lab3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +43,9 @@
     "Python tests.Python tests in test_lab1.py.executor": "Run",
     "Python tests.Python tests in test_lab2.py.executor": "Run",
     "Python tests.Python tests in test_lab3.py.executor": "Run",
+    "Python tests.Python tests in test_lab4.py.executor": "Run",
+    "Python tests.Python tests in test_lab5.py.executor": "Run",
+    "Python tests.Python tests in test_lab6.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -98,8 +103,27 @@
       <option name="project" value="LOCAL" />
       <updated>1713431993561</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1713703796844</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713703796844</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Web Automation" />
