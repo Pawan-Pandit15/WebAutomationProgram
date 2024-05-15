@@ -7,7 +7,7 @@ import time
 
 #     driver = webdriver.Chrome()
 #     driver.get("https://bing.com/chat")
-#     time.sleep(5)  # Python Int.- wait for the 25 seconds, not the webdriver.
+#     time.sleep(5)  # Python Int.- wait for the 5 seconds, not the webdriver.
 #     driver.get("https://google.com")
 #     print(driver.title)
 
