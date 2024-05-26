@@ -12,11 +12,12 @@ def test_open_website():
 
     frame_element = driver.find_element(By.XPATH,"//iframe[@id='courses-iframe']")
     driver.switch_to.frame(frame_element)
-    # time.sleep(2)
+    time.sleep(2)
     WebDriverWait(driver,5).until(EC.visibility_of_element_located((By.XPATH,"//a[@href='consulting']")))
 
     job_support_element = driver.find_element(By.XPATH,"//a[@href='consulting']")
     job_support_element.click()
+    time.sleep(2)
 
     driver.switch_to.default_content()
 

@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation" />
+    <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/17-april/test_explicit_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/17-april/test_explicit_wait.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/17-april/test_frame_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/17-april/test_frame_handling.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715759441390</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1715759682726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1715759682726</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,5 +181,16 @@
     <MESSAGE value="Web Automation" />
     <MESSAGE value=" web automation" />
     <option name="LAST_COMMIT_MESSAGE" value=" web automation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/17-april/test_action_chain.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
