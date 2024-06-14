@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fb9c7b6a-5311-4037-b4e6-38dacf2a2e16" name="Changes" comment=" web automation">
+      <change afterPath="$PROJECT_DIR$/src/17-april/test_popup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/17-april/test_scrolling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17-april/test_explicit_wait.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/17-april/test_explicit_wait.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/17-april/test_frame_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/17-april/test_frame_handling.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,35 +38,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test.lab8.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_action_chain.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_checkbox.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_dropdown.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_explicit_wait.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_frame_handling.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_get-attribute-value.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_handle_multiple_tab-window.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_implicit_wait.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab1.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab2.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab3.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab4.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab5.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab6.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab7.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab8.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_lab9.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test.lab8.py.executor": "Run",
+    "Python tests.Python tests in test_action_chain.py.executor": "Run",
+    "Python tests.Python tests in test_checkbox.py.executor": "Run",
+    "Python tests.Python tests in test_dropdown.py.executor": "Run",
+    "Python tests.Python tests in test_explicit_wait.py.executor": "Run",
+    "Python tests.Python tests in test_flipkart.py.executor": "Run",
+    "Python tests.Python tests in test_frame_handling.py.executor": "Run",
+    "Python tests.Python tests in test_get-attribute-value.py.executor": "Run",
+    "Python tests.Python tests in test_handle_multiple_tab-window.py.executor": "Run",
+    "Python tests.Python tests in test_implicit_wait.py.executor": "Run",
+    "Python tests.Python tests in test_lab1.py.executor": "Run",
+    "Python tests.Python tests in test_lab2.py.executor": "Run",
+    "Python tests.Python tests in test_lab3.py.executor": "Run",
+    "Python tests.Python tests in test_lab4.py.executor": "Run",
+    "Python tests.Python tests in test_lab5.py.executor": "Run",
+    "Python tests.Python tests in test_lab6.py.executor": "Run",
+    "Python tests.Python tests in test_lab7.py.executor": "Run",
+    "Python tests.Python tests in test_lab8.py.executor": "Run",
+    "Python tests.Python tests in test_lab9.py.executor": "Run",
+    "Python tests.Python tests in test_popup.py.executor": "Run",
+    "Python tests.Python tests in test_scrolling.py.executor": "Run",
+    "Python tests.Python tests in test_upload_image.py.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: [
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
     ]
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -163,7 +168,23 @@
       <option name="project" value="LOCAL" />
       <updated>1715759682726</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1716728395690</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716728395690</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" web automation">
+      <option name="closed" value="true" />
+      <created>1717667242378</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1717667242378</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
